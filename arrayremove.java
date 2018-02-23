@@ -1,3 +1,8 @@
+// the requirement is to use a for loop to put int all of the elements, you should put element itself as key, and appearing time as value for later remove operation.
+//besides you should keep all of your asignments in one repostory and when recieve the feedback, you will not need to give access to it 
+
+ scores :  1.5 /2.0
+
 import java.util.Collection;
 import java.util.HashMap;
 
